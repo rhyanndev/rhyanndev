@@ -1,5 +1,5 @@
 
-### Olá me chamo Rhyann Silva 👋 
+### Olá me chamo Rhyann 👋 
 
 📍 Recife/PE <br>
 📚 Estudante de Sistemas de Informação <br>

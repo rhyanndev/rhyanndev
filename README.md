@@ -3,7 +3,6 @@
 
 📍 Recife/PE <br>
 📚 Estudante de Sistemas de Informação <br>
-🖧 Atualmente estagiário de Redes 
 <br>
 
 

@@ -5,6 +5,7 @@
 📚 Information Systems Student  <br>
 <br>
 
+[My portfolio][https://rhyanndev.github.io/my-portfolio/]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanndev&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhyanndev&show_icons=true&theme=radical)
